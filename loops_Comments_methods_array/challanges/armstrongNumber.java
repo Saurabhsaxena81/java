@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * armstrongNumber 1^3+5^3+3^3=153
  */
-public class armstrongNumber {
+class armstrongNumber {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Input number to check whether it is armstrong or not :");

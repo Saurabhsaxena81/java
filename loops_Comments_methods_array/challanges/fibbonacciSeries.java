@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * fibbonacciSeries
  */
-public class fibbonacciSeries {
+class fibbonacciSeries {
     public static void main(String[] args) {
         int a=0,b=1;
         Scanner input = new Scanner(System.in);

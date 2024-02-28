@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * GCD  ->greatest common divisor  (greatest number which divides both number )
  */
-public class GCD {
+class GCD {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter first number :");
